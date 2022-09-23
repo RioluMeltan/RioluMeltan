@@ -1,5 +1,1 @@
-- Hey there, my name's RioluMeltan. I'm a game developer and programmer.
-- During my free time, I like to program. Some of my other interests include math, physics, and chemistry.
-- I'm currently studying Python and game development, as I would like to create an actual game one day.
-- If you're willing to collaborate on something, go ahead and message me! I'm not great at art or music, so that could certainly help me out. If you need help programming/development wise, I can also help.
-- My Reddit is u/Riolu_Meltan. My Discord is RioluMeltan#2812, although I'm not extremely active on it.
+h
